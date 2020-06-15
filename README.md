@@ -35,7 +35,7 @@ Abra o seu navegador e acesse a url localhost:3000 e terá a visão do projeto
 - [Nodemon](https://nodemon.io/)
 - [SQLite](https://www.sqlite.org/index.html)
 
-![Preview-Screens](https://im6.ezgif.com/tmp/ezgif-6-fba89897e86d.gif)
+![](preview.gif)
 
 ## Autor
 
